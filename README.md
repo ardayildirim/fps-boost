@@ -1,9 +1,10 @@
 # fps-boost
+
+[![Watch the video](fps.png)](https://www.instagram.com/p/B8Uh2x2pbCW/)
+
 Düşük kare hızındaki videolarınızı 60 FPS kare hızına çıkartır.
 En iyi farkı görmek için mutlaka düşük kare hızlı videolar kullanın.
 İlk seferde olmaz ise oluşan dosyayı tekrar işlemden geçirebilirsiniz. (Bunun için out klasörünü silmelisiniz.).
-
-[![Watch the video](fps.png)](https://www.instagram.com/p/B8Uh2x2pbCW/)
 
 Kullanım:
 İşlenecek dosyanın ismini "input.mp4" olacak şekilde ayarlayın.  
